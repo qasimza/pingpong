@@ -1,0 +1,2 @@
+python ase/run.py --test --task HumanoidPPViewMotion --num_envs 2 --cfg_env ase/data/cfg/humanoid_pp.yaml --cfg_train ase/data/cfg/train/rlg/amp_humanoid.yaml  \
+--motion_file ase/data/motions/pingpong/smash_01_blender_pph.npy

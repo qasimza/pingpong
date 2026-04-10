@@ -1,0 +1,14 @@
+motions:
+  - file: "backhand_blender_pph.npy"
+    weight: 0.25
+  - file: "backhand_block_01_blender_pph.npy"
+    weight: 0.25
+  - file: "backhand_loop_01_blender_pph.npy"
+    weight: 0.25
+  - file: "backhand_loop_02_blender_pph.npy"
+    weight: 0.25
+  
+
+  
+
+  

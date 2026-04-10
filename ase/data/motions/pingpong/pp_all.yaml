@@ -1,0 +1,55 @@
+motions:
+  - file: "backhand_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "backhand_block_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "backhand_chop_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "backhand_chop001_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "backhand_push_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "backhand_loop_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "backhand_loop_02_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "blocking_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "counter_loop_05_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "counter_loop_06_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "counter_loop_08_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "footwork_3_point_forehand_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "footwork_3_point_forehand001_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "footwork_3_point_forehand002_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "footwork_back_for_for_blender_pph.npy"
+    weight: 0.037037037037037035  
+  - file: "forehand_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "forehand_block_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "forehand_block_02_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "forehand_loop_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "forehand_chop001_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "forehand_push_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "jump_smash_02_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "points_03_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "short_hand_flip_backhand_loop_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "smash_01_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "smash_02_blender_pph.npy"
+    weight: 0.037037037037037035
+  - file: "Transition_looping_FB_blender_pph.npy"
+    weight: 0.037037037037037035

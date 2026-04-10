@@ -1,0 +1,12 @@
+motions:
+  - file: "forehand_chop001_blender_pph.npy"
+    weight: 0.5
+  - file: "forehand_push_01_blender_pph.npy"
+    weight: 0.5
+
+
+  
+
+  
+
+  

@@ -1,0 +1,13 @@
+motions:
+  - file: "backhand_chop_blender_pph.npy"
+    weight: 0.3333333
+  - file: "backhand_chop001_blender_pph.npy"
+    weight: 0.3333333
+  - file: "backhand_push_01_blender_pph.npy"
+    weight: 0.3333333
+
+  
+
+  
+
+  

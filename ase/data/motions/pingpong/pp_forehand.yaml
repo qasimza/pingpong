@@ -1,0 +1,21 @@
+motions:
+  - file: "footwork_3_point_forehand_blender_pph.npy"
+    weight: 0.11111111
+  - file: "footwork_3_point_forehand001_blender_pph.npy"
+    weight: 0.11111111
+  - file: "footwork_3_point_forehand002_blender_pph.npy"
+    weight: 0.11111111
+  - file: "forehand_01_blender_pph.npy"
+    weight: 0.11111111
+  - file: "forehand_block_01_blender_pph.npy"
+    weight: 0.11111111
+  - file: "forehand_block_02_blender_pph.npy"
+    weight: 0.11111111
+  - file: "forehand_loop_01_blender_pph.npy"
+    weight: 0.11111111
+  - file: "smash_01_blender_pph.npy"
+    weight: 0.11111111
+  - file: "smash_02_blender_pph.npy"
+    weight: 0.11111111
+
+  

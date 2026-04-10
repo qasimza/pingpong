@@ -1,0 +1,7 @@
+motions:
+  - file: "smash_01_blender_pph.npy"
+    weight: 0.5
+  - file: "smash_02_blender_pph.npy"
+    weight: 0.5
+
+  
