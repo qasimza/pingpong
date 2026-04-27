@@ -2,12 +2,12 @@
  
 ## Env Set up
  ```
-uv venv --python 3.12.13
+uv venv --python 3.7 
 source .venv/bin/activate
-uv sync
+uv pip install -r requirements.txt
  ```
 
-You will have to install Autodesk FBX SDK Python bindings for your Python version (3.12.13) and OS.
+You will have to install Autodesk FBX SDK Python bindings for your Python version (3.7) and OS.
 Download Python SDK version 2020.2.1 from here: https://aps.autodesk.com/developer/overview/fbx-sdk
 
 Add it to your python path
