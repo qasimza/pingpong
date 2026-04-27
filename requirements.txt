@@ -1,6 +1,0 @@
-numpy==1.21.1
-termcolor==1.1.0
-rl-games==1.1.4
-tensorboard==1.15.0
-scipy==1.7.3
-matplotlib==3.5.3
